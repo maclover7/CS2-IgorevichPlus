@@ -4,9 +4,6 @@
  * and open the template in the editor.
  */
 package pointclass;
-
-
-
 import java.util.Scanner;
  
 public class PointClass {
